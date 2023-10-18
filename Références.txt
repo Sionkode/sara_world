@@ -1,0 +1,2 @@
+Identifiant : administrateur
+Mot de passe : administrateur
